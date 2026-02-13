@@ -6,6 +6,8 @@ export default function App() {
     <View style={styles.container}>
       <Text>PPDM</Text>
       <Text>A melhor aula de DS!😍😒😒</Text>
+      <Text>A melhor aula de DS!😍😒😒</Text>
+      <Text>A melhor aula de DS!😍😒😒</Text>
       <StatusBar style="auto" />
     </View>
   );
